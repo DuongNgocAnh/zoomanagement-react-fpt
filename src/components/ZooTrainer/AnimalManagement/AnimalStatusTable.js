@@ -27,4 +27,5 @@ const AnimalStatusTable = ({ animalList, reloadState }) => {
         </Container>
     )
 }
+//1y2h43oi12yo14h
 export default AnimalStatusTable;
