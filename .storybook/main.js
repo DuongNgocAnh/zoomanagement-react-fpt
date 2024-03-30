@@ -8,6 +8,7 @@ const config = {
     "@storybook/addon-onboarding",
     "@storybook/addon-interactions",
   ],
+  aaa
   framework: {
     name: "@storybook/react-webpack5",
     options: {},
