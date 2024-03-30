@@ -28,4 +28,5 @@ const AnimalStatusTable = ({ animalList, reloadState }) => {
     )
 }
 //1y2h43oi12yo14h
+//1274923795412356916921423
 export default AnimalStatusTable;
