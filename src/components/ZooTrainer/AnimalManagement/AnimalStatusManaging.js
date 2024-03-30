@@ -30,7 +30,7 @@ function AnimalStatusManaging() {
         setCurrentPage(e.target.text);
     }
     //#endregion
-
+//jwqoiryhiowyeoiqhwlwrenqwlreqwre
     useEffect(() => {
         fetch(`https://vietnamzoo.azurewebsites.net/api/AnimalUser/user/${trainerId}`, {
             method: "GET",
